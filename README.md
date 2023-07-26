@@ -18,9 +18,13 @@ https://buffer.com/state-of-remote-work
 
 
 
-###project_requirements 
-1.)Read in 4 CSV files
+### project_requirements 
+1.)Read in 4 CSV files 
+
 2.)use of concat() to clean data
+
 3.)use of replace() to clean data
+
 4.)requirements.txt
+
 5.)Tableau Dashboard
